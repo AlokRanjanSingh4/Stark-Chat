@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868393871724",
+    "firebase_url": "https://starkchat-1ce1c.firebaseio.com",
+    "project_id": "starkchat-1ce1c",
+    "storage_bucket": "starkchat-1ce1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868393871724:android:085425330dc495d3",
+        "android_client_info": {
+          "package_name": "singh.alok.starkchatproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868393871724-pq8c7j7aq15l75ffpisvaklfhbs7s3q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "singh.alok.starkchatproject",
+            "certificate_hash": "ce7a7d4db9afd73d4ad7eb05bfab12598cd38321"
+          }
+        },
+        {
+          "client_id": "868393871724-9f6c297pj2vp5q1vob0jj7rp5moc3s15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFjupSyw4n851mHYMWpcPqHIu6FoI6fLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868393871724-9f6c297pj2vp5q1vob0jj7rp5moc3s15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

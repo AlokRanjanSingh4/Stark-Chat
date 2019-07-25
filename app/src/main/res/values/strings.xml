@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StarkChat Project</string>
+    <string name="need_a_new_account">Need a new Account ?</string>
+    <string name="display_name">Display Name</string>
+    <string name="email"> Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="log_out">Log Out</string>
+    <string name="all_users">All Users</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="already_have_account">Already Have Account</string>
+    <string name="welcome_to_stark_chat_app">Welcome to Stark Chat App</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="login">Login</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi_there_i_m_using_stark_chat_app">Hi there, I\'m using Stark Chat App</string>
+    <string name="change_image">Change Image</string>
+    <string name="change_status">Change Status</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="your_status">Your Status</string>
+    <string name="users_default_status">Users Default Status</string>
+    <string name="total_friends">Total Friends</string>
+    <string name="send_friend_request">Send Friend Request</string>
+    <string name="decline_friend_request">Decline Friend Request</string>
+    <string name="todo">TODO</string>
+    <string name="about_application">About StarkChat</string>
+    <string name="stark_chat_project">Stark Chat Project</string>
+    <string name="version_1">Version 1</string>
+    <string name="icon">Icon</string>
+    <string name="last_seen">Last Seen</string>
+    <string name="enter_message">Enter Message...</string>
+    <string name="message_text">Message Text</string>
+    <string name="_00_00">00:00</string>
+</resources>
