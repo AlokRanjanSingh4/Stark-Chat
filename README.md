@@ -10,8 +10,8 @@
 
 <table width="100%">
 	<tr>
-	  <th width="33%"><img src="https://user-images.githubusercontent.com/47235089/61878458-ac804080-af0e-11e9-8dc3-d8aeae6ce4f5.jpg"></th>
-	  <th width="33%"><img src="https://user-images.githubusercontent.com/47235089/61878458-ac804080-af0e-11e9-8dc3-d8aeae6ce4f5.jpg"></th>
+	  <th width="33%"><img src="https://user-images.githubusercontent.com/47235089/61878462-ad18d700-af0e-11e9-9712-b211affa76a5.jpg"></th>
+		<th width="33%"><img src="https://user-images.githubusercontent.com/47235089/61878458-ac804080-af0e-11e9-8dc3-d8aeae6ce4f5.jpg"></th>
 	</tr>
 </table>
 
